@@ -1,4 +1,6 @@
 # nanømsg streams
+
+[![Join the chat at https://gitter.im/reqshark/nanomsg.iojs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/reqshark/nanomsg.iojs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/reqshark/nanomsg.iojs.svg?branch=master)](https://travis-ci.org/reqshark/nanomsg.iojs) &nbsp;&nbsp;&nbsp;&nbsp; [![Circle CI](https://circleci.com/gh/reqshark/nanomsg.iojs.svg?style=svg)](https://circleci.com/gh/reqshark/nanomsg.iojs) &nbsp;&nbsp;&nbsp;&nbsp; [![npmbadge](https://nodei.co/npm/iojs-nanomsg.png?mini=true)](https://www.npmjs.com/package/iojs-nanomsg)
 * pipe all endpoints together
 * [iøjs streams](https://github.com/substack/stream-handbook) are domain, protocol, and transport agnostic
